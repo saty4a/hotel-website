@@ -6,7 +6,7 @@
        <li>open the backend in the editor</li>
        <li>run: node server.mjs</li>
       </ul>
-  2. run the frontend -
+  2. Run the frontend -
        <ul>
          <li>
            Open the frontend in the editor
